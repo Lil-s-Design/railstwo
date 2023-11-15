@@ -54,7 +54,7 @@ In addition to that, Rails also comes with:
 - [Action Text](actiontext/README.md), a library to handle rich text content
 - [Active Support](activesupport/README.rdoc), a collection of utility classes and standard library extensions that are useful for Rails, and may also be used independently outside Rails
 
-## Getting Started
+## Getting Started 
 
 1. Install Rails at the command prompt if you haven't yet:
 
